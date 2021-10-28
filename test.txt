@@ -2,3 +2,6 @@ R-test2
 리모트저장소를 만들다
 
 newTestText
+
+
+new tomato
