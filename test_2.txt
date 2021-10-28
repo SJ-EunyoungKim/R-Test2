@@ -16,5 +16,9 @@ brand new tomato
 
 new text 
 
+<<<<<<< HEAD
+addddddd new texxxxxxt
+=======
 add new text
 
+>>>>>>> tomato
